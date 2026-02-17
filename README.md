@@ -44,7 +44,7 @@ U1A4_ORDENAMIENTO/
 │
 ├── docs/
 │   ├── U1A4_Cisneros_AngelDaniel.pdf   # Reporte final
-│   └── generar_reporte_u1a4.py         # Script generador del reporte
+│   
 │
 ├── README.md
 └── .gitignore
